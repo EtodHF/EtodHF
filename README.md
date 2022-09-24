@@ -8,7 +8,7 @@
 
 | Connect with me                    | Tools and Languages I Use                       |
 | ------------------------------------- | ----------------------------------------------- |
-| 
+| <a href="https://www.twitter.com/eto_creates" target="_blank">![Twitter icon](https://img.icons8.com/color/72/twitter--v1.png)</a>
 <!---
 EtodHF/EtodHF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
