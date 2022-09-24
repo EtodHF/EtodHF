@@ -6,9 +6,12 @@
 - 💞️ I am looking to collaborate on Web development, Blockchain technology and solutions to reducing technology's carbon footprint. 
 - 📫 You can reach me @: ebubeogbonna360@gmail.com
 
+
 | Connect with me                    | Tools and Languages I Use                       |
 | ------------------------------------- | ----------------------------------------------- |
-| <a href="https://www.twitter.com/eto_creates" target="_blank">![Twitter icon](https://img.icons8.com/color/72/twitter--v1.png)</a>
+| <a href="https://www.twitter.com/eto_creates" target="_blank">![Twitter icon](https://img.icons8.com/color/72/twitter--v1.png)</a> <a href="https://www.instagram.com/eto_creates">![Instagram icon](https://img.icons8.com/color/72/instagram-new--v1.png)</a>|![HTML icon](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png)  |
+|    | 
+
 <!---
 EtodHF/EtodHF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
