@@ -11,7 +11,7 @@
 
 | Connect with me                    | Tools and Languages I Use                       |
 | ------------------------------------- | ----------------------------------------------- |
-| <a href="https://www.twitter.com/Eto606" target="_blank">![Twitter icon](https://img.icons8.com/color/72/twitter--v1.png)</a> <br /><a href="https://www.instagram.com/eto_creates">![Instagram icon](https://img.icons8.com/color/72/instagram-new--v1.png)</a>|  <img src="https://github.com/EtodHF/EtodHF/blob/main/Excel-Logo.png" width="50px" alt="Excel logo"></img> <img src="https://github.com/EtodHF/EtodHF/blob/main/python.png" width="30px" alt="Python logo"></img> <br /> <img src="https://github.com/EtodHF/EtodHF/blob/main/SQL.png" width="50px" alt="SQL Logo"></img>|
+| <a href="https://www.twitter.com/Eto606" target="_blank">![Twitter icon](https://img.icons8.com/color/72/twitter--v1.png)</a> <br /><a href="https://www.instagram.com/eto_creates">![Instagram icon](https://img.icons8.com/color/72/instagram-new--v1.png)</a>|  <img src="https://github.com/EtodHF/EtodHF/blob/main/Excel-Logo.png" width="60px" alt="Excel logo"></img> <img src="https://github.com/EtodHF/EtodHF/blob/main/python.png" width="40px" alt="Python logo"></img> <br /> <img src="https://github.com/EtodHF/EtodHF/blob/main/SQL.png" width="60px" alt="SQL Logo"></img>|
 ---
 
 
