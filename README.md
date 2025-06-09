@@ -1,4 +1,5 @@
-![Profile Header](https://github.com/EtodHF/EtodHF/blob/main/Excel-Logo.png)
+![profileBanner](https://github.com/EtodHF/EtodHF/blob/main/profileBanner.jpg)
+
 #                                           <p align="center"> *Hello World 👋* </p>
 ---
 ##    <p align="center">I am Ebube Ogbonna, a passionate Data Analyst/Scientist with interests in Web3</p>
