@@ -1,4 +1,4 @@
-![Copy of Minimalist Beige Twitter Header (1).png]([https://github.com/EtodHF/EtodHF/blob/main/Excel-Logo.png])
+![Profile Header](https://github.com/EtodHF/EtodHF/blob/main/Excel-Logo.png)
 #                                           <p align="center"> *Hello World 👋* </p>
 ---
 ##    <p align="center">I am Ebube Ogbonna, a passionate Data Analyst/Scientist with interests in Web3</p>
